@@ -27,3 +27,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: (https://d0nda.github.io/qr-code-card/)
 - Live Site URL: (https://d0nda.github.io/qr-code-card/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS  properties
+
+## Author
+
+- Frontend Mentor - [@d0nda](https://www.frontendmentor.io/profile/d0nda)
