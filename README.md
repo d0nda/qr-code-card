@@ -14,7 +14,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-![Mobile Screenshot](https://iili.io/DFZThJ.pnghttps://iili.io/DFDeWb.png "Mobile Screenshot")
+Mobile
+![Mobile Screenshot](https://iili.io/DFmd8B.jpg "Mobile Screenshot")
+Desktop
 ![Desktop Screenshot](https://iili.io/DFZThJ.png "Desktop Screenshot")
 
 ### Links
