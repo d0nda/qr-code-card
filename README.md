@@ -21,4 +21,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./qr-desktop-screenshot.png) , ![](./qr-mobile-screenshot.png)
+![](./qr-desktop-screenshot.png)
+
+### Links
+
+- Solution URL: (https://d0nda.github.io/qr-code-card/)
+- Live Site URL: (https://d0nda.github.io/qr-code-card/)
