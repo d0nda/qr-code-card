@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./qr-desktop-screenshot.png)
+![Alt text](./qr-desktop-screenshot.png?raw=true "Optional Title")
 
 ### Links
 
